@@ -2,8 +2,6 @@
 
 Starter kit fullstack modern yang menggabungkan backend REST API berbasis **Laravel 13** dan frontend SPA modern berbasis **React 19**, **TypeScript**, dan **Tailwind CSS v4**.
 
-Dilengkapi dengan primary key **UUID**, standarisasi **Clean Architecture** (Controller, Service, FormRequest), dokumentasi API interaktif otomatis menggunakan **Scramble**, serta frontend dengan **Zero `any` TypeScript** dan antarmuka komponen **DataTable** yang responsif dan interaktif.
-
 ---
 
 ## 🚀 Tech Stack
